@@ -3,7 +3,7 @@
 # import the necessary packages
 import sys
 sys.path.append("..")
-from pyimagesearch.nn import NeuralNetwork
+from startbundle.pyimagesearch.nn import NeuralNetwork
 from sklearn.preprocessing import LabelEncoder
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report
